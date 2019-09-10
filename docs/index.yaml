@@ -1,12 +1,22 @@
 apiVersion: v1
 entries:
   cp-helm-charts:
-    - appVersion: "1.0"
-    created: 2018-12-19T18:49:07.369173+01:00
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-09-10T21:24:02.505795+10:00"
     description: A Helm chart for Confluent Open Source
-    digest: de1696d67b7388b958f1cd901e0bdc5d52c193e568e55e1ce4572dcfcbc4ef55
+    digest: e537944b7a52cd4a7b9c1219532fffddd32b58d9188c4254d884721611b8f0fa
     name: cp-helm-charts
     urls:
-    - https://github.com/inamg/cp-helm-charts/tree/master/docs/cp-helm-charts-0.3.0.tgz
-    version: 0.1.0
-generated: 2018-12-19T18:49:07.366788+01:00
+    - cp-helm-charts-0.3.0.tgz
+    version: 0.3.0
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-09-10T21:24:02.5088291+10:00"
+    description: A Helm chart for Confluent Open Source
+    digest: 846d9c19cea977dca53c4bbc33c79490c3091db3fe3066c53469527f902053fe
+    name: cp-helm-charts
+    urls:
+    - docs/cp-helm-charts-0.3.0.tgz
+    version: 0.3.0
+generated: "2019-09-10T21:24:02.5037935+10:00"
